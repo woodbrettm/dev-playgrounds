@@ -1,1 +1,5 @@
-# misc-playgrounds
+# Playgrounds
+
+For testing different setups
+
+- NGINX Playground
