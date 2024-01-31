@@ -1,5 +1,9 @@
 # Playgrounds
 
-For testing different setups
+This repo contains playground templates for local development testing purposes
+using vscode dev containers.
 
-- NGINX Playground
+Each folder is intended to be its own project, so it's recommended to open
+vscode from each of the folders, not the repo root.
+
+`degit` or `giget` are also useful here.

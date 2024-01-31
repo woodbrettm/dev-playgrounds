@@ -3,6 +3,6 @@
   "name": "nginx-local",
   "dockerComposeFile": "./docker-compose.yml",
   "service": "nginx",
-  "workspaceFolder": "/workspace",
+  "workspaceFolder": "/workspace/nginx",
   "initializeCommand": "echo Initializing..."
 }

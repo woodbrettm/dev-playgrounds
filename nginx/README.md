@@ -3,15 +3,13 @@
 This playground keeps the container running even when NGINX has stopped. Useful for debugging.
 NGINX is set to run in the foreground.
 
-Open localhost on port 8080 to view.
-
 https://www.cyberciti.biz/faq/nginx-linux-restart/
 
 ```bash
 nginx -h # for help
 ```
 
-To Start, Run:
+To Start, run the script and open port 8080 on localhost.
 
 ```bash
 bash nginx.sh
