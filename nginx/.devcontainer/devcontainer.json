@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/devcontainers/spec/main/schemas/devContainer.schema.json",
-  "name": "nginx-local",
+  "name": "play-nginx",
   "dockerComposeFile": "./docker-compose.yml",
   "service": "nginx",
   "workspaceFolder": "/workspace/nginx",
