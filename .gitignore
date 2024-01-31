@@ -1,0 +1,2 @@
+phpmysql/mysql/**/*
+!phpmysql/mysql/info.txt

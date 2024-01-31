@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/devcontainers/spec/main/schemas/devContainer.schema.json",
+  "name": "play-phpmysql-nginx",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "nginx",
+  "workspaceFolder": "/workspace",
+  "initializeCommand": "echo Initialize...",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "redhat.vscode-yaml",
+        "ahmadalli.vscode-nginx-conf"
+      ]
+    }
+  }
+}
