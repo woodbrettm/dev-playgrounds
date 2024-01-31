@@ -7,6 +7,6 @@ services:
     ports:
       - 8080:8080
     volumes:
-      - ..:/workspace/nginx:cached
+      - ..:/workspace:cached
     # Keeps the container running
     command: "tail -F /dev/null"

@@ -3,6 +3,6 @@
   "name": "play-nginx",
   "dockerComposeFile": "./docker-compose.yml",
   "service": "nginx",
-  "workspaceFolder": "/workspace/nginx",
+  "workspaceFolder": "/workspace",
   "initializeCommand": "echo Initializing..."
 }
