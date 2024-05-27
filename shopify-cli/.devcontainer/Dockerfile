@@ -15,3 +15,6 @@ RUN pnpm install -g @shopify/cli
 
 # Enables Shopify Theme Pull
 RUN gem install bundler
+
+# Specifies the default --environment flag when specifying commands.
+ENV SHOPIFY_FLAG_ENVIRONMENT=main
